@@ -1,1 +1,6 @@
 -reduce image quality to increase loading times.
+
+-add individual pages for each project
+
+- see to add contact mail service
+- add professional foto
