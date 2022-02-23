@@ -1,6 +1,10 @@
 -reduce image quality to increase loading times.
 
 -add individual pages for each project
+    -Done for opencv page
 
-- see to add contact mail service
+- #DONE see to add contact mail service
 - add professional foto
+
+-Add a new block on top to add linkedin details
+#TODO move download cv link to the top of the page

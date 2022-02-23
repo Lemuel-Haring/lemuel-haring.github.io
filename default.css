@@ -436,4 +436,24 @@ h6 { font-size: 16px;}
 	border-color: gray;
 	border-width: thin;
 	border-style: solid;
+	max-width: 100%;
 }
+
+
+.img-container {
+	max-width: 100%;
+}
+
+img {
+	width: 100%
+}
+
+.code_block {
+	text-align: left;
+    background-color: rgb(207,226,243);
+    padding: 10px;
+	text-align: left;
+	margin: 5px;
+	
+}
+
